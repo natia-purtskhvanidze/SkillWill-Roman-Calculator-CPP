@@ -1,3 +1,5 @@
+//This is a project 1 for Skilwill Team 6
+//in this project we build a calculator that takes roman symbols, converts and does calculations
 #include <iostream>
 #include <map>
 using namespace std;
